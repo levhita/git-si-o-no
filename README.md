@@ -1,5 +1,5 @@
 # git-si-o-no
-¿Es necesario saber github para trabajar en programación?
+¿Es necesario saber git para trabajar en programación?
 
 ## Cómo usar este documento
 
