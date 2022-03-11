@@ -32,7 +32,12 @@ bonita comunidad de techtwitter.
 
 ~@levhita
 
-### 
+### Usar git significa tener empatía con los demás
+No solo es usar el software y ya, al participar te estás involucrando con personas como tú: eso es colaborar :beers:
+
+~@pateketrueke
+
+
 ## En contra
 
 ### [titulo de comentario en contra]
@@ -40,8 +45,12 @@ bonita comunidad de techtwitter.
 
 ~@[firma con tu usuario de github]
 
+### Sin titúlo
 no es necesario habiendo tantas ui. así como yo no me sé los comandos para debuggear .net y siempre uso el debugger de visual studio, con ya casi 20 años trabajando en .net.
+
 pd: este comentario lo metí usando la UI de vscode totalmente. 
+
+~@celerno
 
 ### No es línear y eso lo hace demasiado para ciertas situaciones
 
