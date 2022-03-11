@@ -19,3 +19,6 @@ Añada su respuesta en la sección a favor o en contra según siguiendo la plant
 [detalles de porque está en contra]
 
 ~@[firma con tu usuario de github]
+
+no es necesario habiendo tantas ui. así como yo no me sé los comandos para debuggear .net y siempre uso el debugger de visual studio, con ya casi 20 años trabajando en .net.
+pd: este comentario lo metí usando la UI de vscode totalmente. 
