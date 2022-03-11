@@ -12,6 +12,12 @@ Añada su respuesta en la sección a favor o en contra según siguiendo la plant
 
 ~@[firma con tu usuario de github]
 
+
+### Esta bien ser críticos y desafiar el status quo pero no mamen
+wey neta? en pleno 2022? es necesario discutir esto?
+
+~@mictlan
+
 ### Ningún hombre es una isla
 No es una cuestión técnica, es una cuestión práctica y moral.
 Aunque no lo uses directamente en tus asignaciones diarias porque "no se necesita" (cuestionable),
