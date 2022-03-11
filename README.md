@@ -12,6 +12,13 @@ Añada su respuesta en la sección a favor o en contra según siguiendo la plant
 
 ~@[firma con tu usuario de github]
 
+### Ningún hombre es una isla
+No es una cuestión técnica, es una cuestión práctica y moral.
+Aunque no lo uses directamente en tus asignaciones diarias porque "no se necesita" (cuestionable),
+tienes que saber git para colaborar, para que tengas posibilidad de aportar y regresar un poquito de lo mucho  que has recibido del trabajo de otros. Fin.
+
+~@douglax
+
 ### No saber git te deja fuera del mame.
 toma por ejemplo este repo, sólo sabiendo git
 puedes interactuar con él y participar de esta
