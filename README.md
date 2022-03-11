@@ -52,8 +52,6 @@ pd: este comentario lo metí usando la UI de vscode totalmente.
 
 ~@celerno
 
-pd: este comentario lo metí usando la UI de vscode totalmente. 
-
 ### No es línear y eso lo hace demasiado para ciertas situaciones
 
 Debido a su naturaleza distribuida git no es un histórico linear aunque tratemos de usarlo como tal. Es un grafo. El simple concepto de un branch no existe como lo entendemos, ya que es solo un apuntador a un commit específico que pudo venir de varias partes. Esto lo hace muuy flexible, pero también muy complejo. Para empezar, si alguna vez han metido un secreto y quieren borrarlo de toda la historia podrán darse cuenta que no es tan simple como borrar el commit, no es trivial. Así que, si estoy trabajando YO solo, en algún proyecto donde me interese ver el historial de lo que estoy haciendo, probablemente sea mejor idea no usar Git, la simple idea de la diferencia entre commit (local) y push (remoto) lo hacen complejo. Lo uso y todo, pero es por comodidad, es más facil entenderlo con sistemas no distribuidos como SVN o CVS.
