@@ -13,8 +13,8 @@ Añada su respuesta en la sección a favor o en contra según siguiendo la plant
 ~@[firma con tu usuario de github]
 
 
-### Esta bien ser críticos y desafiar el status quo pero no mamen
-wey neta? en pleno 2022? es necesario discutir esto?
+### Git es estatus quo
+Git es la herramienta más usada para el sistema de control de versiones en el mundo. Solo por ese hecho, si queremos estar en contra es necesario aprenderlo, para saber porque estar en contra. No es posible desafiar al estatus quo sin entender las razones que llevaron a Git a ser lo que es.
 
 ~@mictlan
 
@@ -42,3 +42,4 @@ bonita comunidad de techtwitter.
 
 no es necesario habiendo tantas ui. así como yo no me sé los comandos para debuggear .net y siempre uso el debugger de visual studio, con ya casi 20 años trabajando en .net.
 pd: este comentario lo metí usando la UI de vscode totalmente. 
+
