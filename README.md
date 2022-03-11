@@ -12,6 +12,13 @@ Añada su respuesta en la sección a favor o en contra según siguiendo la plant
 
 ~@[firma con tu usuario de github]
 
+### No saber git te deja fuera del mame.
+toma por ejemplo este repo, sólo sabiendo git
+puedes interactuar con él y participar de esta
+bonita comunidad de techtwitter.
+
+~@levhita
+
 ### 
 ## En contra
 
