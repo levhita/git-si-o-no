@@ -46,6 +46,12 @@ Salu2 cordiales.
 
 ~@KuronekoKat
 
+### Git para hacer magia
+Saber utilizar Git te hará la vida un poco más sencilla, puede que tengas una forma de trabajar bastante limpia que te permita esquivar posibles errores, sin embargo al momento de desarrollar con otros, trabajar o incluso querer compartir material en GitHub. Saber Git, permitirá que puedas tener control sobre tú código, saber los cambios que haces y poder volver a este o hacer los cambios con mayor facilidad. Naturalmente, nunca es tarde para aprender algo nuevo, confia en tu capacidad de aprender.
+
+~@ParuPururin
+
+
 ## En contra
 
 ### [titulo de comentario en contra]
