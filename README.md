@@ -37,6 +37,14 @@ No solo es usar el software y ya, al participar te estás involucrando con perso
 
 ~@pateketrueke
 
+### Mil y un cosas que escoger, y escogemos ser un meme
+Asi como podemos pelear cada semana por que cosas son y no son importantes para ser un dev, hay cosas que, como en cualquier oficio, son las herramientas basicas,
+el tubo para un fontanero, el camion para un transportista, el versionado para almacenar, trackear, compartir y salvaguardar tu codigo como dev, cada cabeza es un mundo
+pero no por que yo diga que usar git es bueno o malo voy a decir que los demas no son profesionales o no usan la cabeza al programar solo porque no usan las herramientas 
+que yo, o por que usan mas o menos herramientas.
+Salu2 cordiales.
+
+~@KuronekoKat
 
 ## En contra
 
