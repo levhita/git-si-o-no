@@ -86,4 +86,10 @@ pd: este comentario me lo robé de @celerno sólo que yo lo edité desde Github 
 
 ~@mackaber
 
+### muy bonito 
+
+muy bonito eso de decir que trabajar en git no es usar el software sino trabajar en equipo, muy bonito, pero es mentira. Es, como lo dije en mi tuiter sobre github, marketing.
+Y la pregunta directa de @lev es si es necesario saberlo para trabajar, y la respuesta es no. ¿creen que todos los programadores del mundo usan git? Yo aprendí git hasta aprox 2014, habiendo empezado a trabajar en programación desde el 2000. 
+
+~@celerno
 
