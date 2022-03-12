@@ -71,3 +71,13 @@ Debido a su naturaleza distribuida git no es un histórico linear aunque tratemo
 Creo que es muy útil pero estoy en contra porque así escondo mi inseguridad de no saber usarlo; además,creo que mi comentario será mas leído aquí y pues eso. 
 
 ~@vhstrejo
+
+### Haciendo trampa
+
+no es necesario habiendo tantas ui. así como yo no me sé los comandos para debuggear .net y siempre uso el debugger de visual studio, con ya casi 20 años trabajando en .net.
+
+pd: este comentario me lo robé de @celerno sólo que yo lo edité desde Github directamente
+
+~@mackaber
+
+
