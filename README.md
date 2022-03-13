@@ -86,6 +86,12 @@ pd: este comentario me lo robé de @celerno sólo que yo lo edité desde Github 
 
 ~@mackaber
 
+
+## For the lulz
+Ke le balga berga cñora.
+
+~@enriquereyes
+
 ### muy bonito 
 
 muy bonito eso de decir que trabajar en git no es usar el software sino trabajar en equipo, muy bonito, pero es mentira. Es, como lo dije en mi tuiter sobre github, marketing.
