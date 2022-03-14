@@ -107,3 +107,12 @@ Y la pregunta directa de @levhita es si es necesario saberlo para trabajar, y la
 Jaja, saludos
 
 ~@kinduff
+
+
+### Dime tú
+
+- [] Sí
+- [] No
+
+
+~@5yees
